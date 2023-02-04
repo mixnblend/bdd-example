@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "apps/web"
+    },
+    {
+      "path": "apps/web-e2e"
+    },
+    {
+      "name": "ROOT",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "apps/*/*": true
+    }
+  }
+}

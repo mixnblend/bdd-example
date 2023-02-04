@@ -1,0 +1,6 @@
+{
+  "start": "start all applications",
+  "build": "build the applications",
+  "test": "run all unit tests",
+  "prepare": "install husky hooks if this is not a CI environment"
+}

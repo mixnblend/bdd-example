@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-content: center;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.navContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.link {
+  padding: 10px;
+}
