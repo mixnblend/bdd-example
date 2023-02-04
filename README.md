@@ -71,7 +71,7 @@ The following comprise a list of applications in the repo and their purpose (hou
 ## Additional Docs
 
 - [Branches](docs/branches.md)
-- [Contributing](docs/contributing.md)
+- [Contributing](docs/CONTRIBUTING.md)
 - [Monorepo How?](docs/monorepo-how.md)
 - [Monorepo Why?](docs/monorepo-why.md)
 - [NodeJS Version](docs/node-version.md)
