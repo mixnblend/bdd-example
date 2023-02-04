@@ -20,6 +20,7 @@ Monorepo to demonstrate end to end testing using Cypress and Cucumber/Gherkin.
 4. Run `npx nx serve web` to serve the web application - shut it down.
 5. Run `npx nx run web-e2e:e2e` to run the end to end tests.
 6. Go to `dist/cypress/apps/web-e2e` and look at the screenshots and videos generated.
+7. You can see the Gherkin feature files and the steps implemented in cypress at `apps/web-e2e/src/e2e/Home.feature`, etc.
 
 **[⬆ back to top](#table-of-contents)**
 
